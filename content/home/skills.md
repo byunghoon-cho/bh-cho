@@ -17,54 +17,54 @@ subtitle = ""
     icon = "copyright"
     icon_pack = "fas"
     name = "C"
-    description = "100%"
+    #description = "100%"
 
 [[feature]]
     icon = "java"
     icon_pack = "fab"
     name = "Java"
-    description = "100%"
+    #description = "100%"
 
 [[feature]]
     icon = "code"
     icon_pack = "fas"
     name = "MATLAB"
-    description = "100%"
+    #description = "100%"
 
 [[feature]]
     icon = "python"
     icon_pack = "fab"
     name = "Python"
-    description = "90%"
+    #description = "100%"
 
 [[feature]]
     icon = "code-branch"
     icon_pack = "fas"
     name = "Git"
-    description = "90%"
-
-[[feature]]
-    icon = "android"
-    icon_pack = "fab"
-    name = "Kotlin"
-    description = "80%"
+    #description = "90%"
 
 [[feature]]
     icon = "apple"
     icon_pack = "fab"
     name = "Swift"
-    description = "80%"
+    #description = "80%"
+
+[[feature]]
+    icon = "android"
+    icon_pack = "fab"
+    name = "Kotlin"
+    #description = "70%"
 
 [[feature]]
     icon = "globe-asia"
     icon_pack = "fas"
     name = "English"
-    description = "100% - First Language"
+    description = "First Language"
 
 [[feature]]
     icon = "globe-americas"
     icon_pack = "fas"
     name = "Spanish"
-    description = "50% - Limited Working Proficiency"
+    description = "Limited Working Proficiency"
 
 +++

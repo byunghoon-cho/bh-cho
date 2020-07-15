@@ -2,7 +2,7 @@
 widget = "portfolio"
 headless = true
 active = true
-weight = 9
+weight = 7
 
 title = "Projects"
 subtitle = ""

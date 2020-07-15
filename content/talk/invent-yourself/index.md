@@ -58,3 +58,6 @@ This project was originally presented at the 2016 [International Young Physicist
 {{% alert note %}}
 The slides presented are available at the top of this page.
 {{% /alert %}}
+
+## Video
+{{< video src="Demo.mp4" controls="yes" >}}

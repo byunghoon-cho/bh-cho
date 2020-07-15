@@ -15,17 +15,21 @@ date_format = "January 2006"
     company_url = "https://www.dolby.com"
     location = "Sydney, Australia"
     date_start = "2019-12-02"
-    date_end = ""
-    description = ""
+    date_end = "2020-02-28"
+    description = "Developed automation and testing software for acoustic playback and recording"
 
 [[experience]]
-    title = "Academic Tutor"
+    title = "Teaching Assistant and Academic Tutor"
     company = "University of Sydney"
     company_url = "https://sydney.edu.au"
     location = "Sydney, Australia"
     date_start = "2019-02-25"
     date_end = ""
-    description = "Unit of Study tutor in [Introduction to Programming (INFO1110)](https://sydney.edu.au/courses/units-of-study/2020/info/info1110.html) in 2019 Semesters 1 and 2, [Systems Programming (COMP2017)](https://sydney.edu.au/courses/units-of-study/2020/comp/comp2017.html) in 2019 Semester 1, and [OS and Network Platforms (INFO1112)](https://sydney.edu.au/courses/units-of-study/2020/info/info1112.html) in 2019 Semester 2, delivering lab content and exercises as well as giving feedback to students on their quizzes and assignments."
+    description = """Teaching Assistant for [Systems Programming (COMP2017)](https://sydney.edu.au/courses/units-of-study/2020/comp/comp2017.html) in 2020 Semester 1. Tutor for:
+- [Introduction to Programming (INFO1110)](https://sydney.edu.au/courses/units-of-study/2020/info/info1110.html) in 2019 Semesters 1 and 2
+- [Systems Programming (COMP2017)](https://sydney.edu.au/courses/units-of-study/2020/comp/comp2017.html) in 2019 Semester 1
+- [Algorithm Design (COMP3027)](https://sydney.edu.au/courses/units-of-study/2020/comp/comp3027.html) in 2020 Semester 1
+- [OS and Network Platforms (INFO1112)](https://sydney.edu.au/courses/units-of-study/2020/info/info1112.html) in 2019 Semester 2"""
 
 [[experience]]
     title = "Academic Mentor and Tutor"

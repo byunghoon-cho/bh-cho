@@ -19,13 +19,13 @@
   weight = 30
 
 [[main]]
-  name = "Presentations"
-  url = "#talks"
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Presentations"
+  url = "#talks"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.

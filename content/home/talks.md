@@ -2,7 +2,7 @@
 widget = "pages"
 headless = true
 active = true
-weight = 7
+weight = 8
 
 title = "Presentations"
 subtitle = ""
