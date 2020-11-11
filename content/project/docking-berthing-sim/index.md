@@ -14,9 +14,6 @@ tags:
 
 summary: Simulated the berthing and docking procedure of a spacecraft using the UR5 robotic arm.
 
-url_pdf: "reports/berthing-docking.pdf"
-url_code: "https://github.com/byunghoon-cho/AutonomousSpacecraft"
-
 image:
     caption: UR5 robotic arm approaching the spacecraft for berthing
 
@@ -39,7 +36,3 @@ In both cases, an OpenMV H7 camera was used along with AprilTags to detect the s
 
 ### Docking
 {{< video src="Docking.mp4" controls="yes" >}}
-
-{{% alert note %}}
-The full report and code are available at the top of this page.
-{{% /alert %}}
